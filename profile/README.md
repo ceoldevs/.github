@@ -1,6 +1,15 @@
-## Hi there young coders 👋
+# Hi there coders 👋
 
+<p>
+  <a href="https://ceoldevs.github.io/#gh-light-mode-only" target="_blank">
+    <img src="../assets/ceol-label-image.svg" alt="CEOL" width="350" height="120">
+  </a>
+  <a href="https://ceoldevs.github.io/#gh-dark-mode-only" target="_blank">
+    <img src="../assets/ceol-label-image-dark.svg" alt="CEOL" width="350" height="120">
+  </a>
+</p>
 
+## 🙋 About US
 
 <!--
 
