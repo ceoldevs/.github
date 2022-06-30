@@ -2,10 +2,10 @@
 
 <p>
   <a href="https://ceoldevs.github.io/#gh-light-mode-only" target="_blank">
-    <img src="../assets/ceol-label-image.svg" alt="CEOL" width="350" height="120">
+    <img src="https://raw.githubusercontent.com/ceoldevs/.github/main/assets/ceol-label-image.svg" alt="CEOL">
   </a>
   <a href="https://ceoldevs.github.io/#gh-dark-mode-only" target="_blank">
-    <img src="../assets/ceol-label-image-dark.svg" alt="CEOL" width="350" height="120">
+    <img src="https://raw.githubusercontent.com/ceoldevs/.github/main/assets/ceol-label-image-dark.svg" alt="CEOL">
   </a>
 </p>
 
